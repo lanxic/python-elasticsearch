@@ -1,0 +1,8 @@
+{
+  "dirOutput": "/var/www/production/orbit-mall-api/app/storage",
+  "fileOutput": "about_us_counter.json",
+  "indexEsUser": "v35_activities",
+  "indexEsPageView": "v35_activities",
+  "indexEsStore": "v35_store_details",
+  "indexEsMerchant": "v35_stores"
+}
